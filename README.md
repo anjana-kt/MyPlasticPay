@@ -63,8 +63,8 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
 ## Live Demo
 
 - [![3D Model](https://www.tinkercad.com/things/ekWntHBtslJ-spectacular-blad)](https://www.tinkercad.com/things/ekWntHBtslJ-spectacular-blad)- view
-- ![App Model](./docs/App_demo.mp4)
-- [![App Model](https://www.figma.com/file/N96XsXducpJCh7nTUTHLDE/MyPLasticPays?node-id=0%3A1)](https://www.figma.com/file/N96XsXducpJCh7nTUTHLDE/MyPLasticPays?node-id=0%3A1)
+- Download![App Model](./docs/App_demo.mp4) - video here and watch
+- [![App Model](https://www.figma.com/file/N96XsXducpJCh7nTUTHLDE/MyPLasticPays?node-id=0%3A1)](https://www.figma.com/file/N96XsXducpJCh7nTUTHLDE/MyPLasticPays?node-id=0%3A1) - UI
 
 ## Built With
 
