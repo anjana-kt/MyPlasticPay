@@ -49,7 +49,7 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
 
 ## Long Description
 
-[Detailed description is available here](./docs/DESCRIPTION.md)
+[Detailed description is available here](./docs/Description.md)
 
 ## Solution RoadMap
 
@@ -57,12 +57,13 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
 
 ## Getting Started
 
-1. Install this ![Apk file](./MyPlasticPay.apk)- in your Android mobile/emulator and just start the application.
-2. Run the python ![file](./MyPlasticPay/Object-Detection/)- with open cv installed in the system 
+1. Install this - ![Apk file](./MyPlasticPay.apk)- in your Android mobile/emulator and just start the application.
+2. Run the python - ![file](./Object-Detection)- with open cv installed in the system also download the folder containing datas.
 
 ## Live Demo
 
 - [![3D Model](https://www.tinkercad.com/things/ekWntHBtslJ-spectacular-blad)](https://www.tinkercad.com/things/ekWntHBtslJ-spectacular-blad)- view
+- ![App Model](./docs/App_demo.mp4)
 - [![App Model](https://www.figma.com/file/N96XsXducpJCh7nTUTHLDE/MyPLasticPays?node-id=0%3A1)](https://www.figma.com/file/N96XsXducpJCh7nTUTHLDE/MyPLasticPays?node-id=0%3A1)
 
 ## Built With
