@@ -3,13 +3,13 @@
 
 ## Contents
 
-- [Project Name](#My-Plastic-Pays)
+- [Project Name](#my-plastic-pays)
 - [About the project](#about-the-project)
   - [What's the problem?](#whats-the-problem)
   - [How can technology help?](#how-can-technology-help)
   - [The idea](#the-idea)
 - [Demo video](#demo-video)
-- [The architecture](#the-architecture)
+- [The architecture](#architecture)
 - [Long description](#long-description)
 - [Project roadmap](#solution-roadmap)
 - [Getting started](#getting-started)
@@ -35,8 +35,8 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
   It is essential that we have to preserve our surroundings for the well being of our future generations. With the help  of a set of  open source tools, backed by IBM Cloud and Watson Services, our GARBIN machine paves an innovative and cost-effective way to deposit plastic wastes making segregation and recycling process a lot easier.
 
 ## Demo video
-![Watch the video](https://youtu.be/o37L91SnWbw)
-link- `https://youtu.be/o37L91SnWbw`
+[![Watch the video](https://youtu.be/o37L91SnWbw)](https://youtu.be/o37L91SnWbw)-here 
+
 
 ## Architecture
 
@@ -58,12 +58,12 @@ link- `https://youtu.be/o37L91SnWbw`
 ## Getting Started
 
 1. Install this ![Apk file](./MyPlasticPay.apk)- in your Android mobile/emulator and just start the application.
-2. Run the python -![file](MyPlasticPay/Object-Detection/MyPlasticPay_obj_detector.py)- with open cv installed in the system 
+2. Run the python ![file](./MyPlasticPay/Object-Detection/)- with open cv installed in the system 
 
 ## Live Demo
 
-- ![3D Model](https://www.tinkercad.com/things/ekWntHBtslJ-spectacular-blad)- view
-- ![App Model](https://www.figma.com/file/N96XsXducpJCh7nTUTHLDE/MyPLasticPays?node-id=0%3A1)
+- [![3D Model](https://www.tinkercad.com/things/ekWntHBtslJ-spectacular-blad)](https://www.tinkercad.com/things/ekWntHBtslJ-spectacular-blad)- view
+- [![App Model](https://www.figma.com/file/N96XsXducpJCh7nTUTHLDE/MyPLasticPays?node-id=0%3A1)](https://www.figma.com/file/N96XsXducpJCh7nTUTHLDE/MyPLasticPays?node-id=0%3A1)
 
 ## Built With
 
@@ -87,7 +87,9 @@ link- `https://youtu.be/o37L91SnWbw`
 
 - **Abhinav Thomas**  - [abhitom2000](https://github.com/abhitom2000)
 - **Aadhya K Raj**  - [aayahda](https://github.com/aayahda)
-- **Anjana K T**  - [anjanakt](https://github.com/anjanakta)
+- **Anjana K T**  - [anjanakta](https://github.com/anjanakta)
+- **Amita A R**  - [amitarajeev](https://github.com/amitarajeev)
+- **Ijas Ahammed J**  - [ijas-20](https://github.com/ijas-20)
 
 
 
