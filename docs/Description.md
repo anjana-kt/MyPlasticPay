@@ -28,7 +28,7 @@ If a single person deposits more than 10 bottles a day ,the rewardings reduces b
 
 All these items are recycled . Since the materials are segregated using the machine, recycling becomes much easier.
 
-## Conclusion]
+## Conclusion
 
   Plastics made from recycled plastics need only two-third of production energy than that made from virgin sources. This way we make less plastic waste and a cleaner environment.
 
