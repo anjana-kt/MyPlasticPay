@@ -17,8 +17,6 @@
 - [Built with](#built-with)
 - [Contributing](#contributing)
 - [Authors](#authors)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## About The Project
 
@@ -37,7 +35,8 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
   It is essential that we have to preserve our surroundings for the well being of our future generations. With the help  of a set of  open source tools, backed by IBM Cloud and Watson Services, our GARBIN machine paves an innovative and cost-effective way to deposit plastic wastes making segregation and recycling process a lot easier.
 
 ## Demo video
-![Watch the video]()
+![Watch the video](https://youtu.be/o37L91SnWbw)
+
 ## Architecture
 
 ![Architecture](./docs/Architecture.jpg)
@@ -56,6 +55,9 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
 ![Roadmap](./docs/roadmap.jpg)
 
 ## Getting Started
+
+1. Install this ![Apk file](./MyPlasticPay.apk)- in your Android mobile/emulator and just start the application.
+2. Run the python -![file](MyPlasticPay/Object-Detection/MyPlasticPay_obj_detector.py)- with open cv installed in the system 
 
 ## Live Demo
 
@@ -83,12 +85,8 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
 ## Authors
 
 - **Abhinav Thomas**  - [abhitom2000](https://github.com/abhitom2000)
-- **Aadhya K Raj**  - [aayadha](https://github.com/aayahda)
+- **Aadhya K Raj**  - [aayahda](https://github.com/aayahda)
 - **Anjana K T**  - [anjanakt](https://github.com/anjanakta)
 
-
-## License
-
-## Acknowledgements
 
 
