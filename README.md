@@ -40,7 +40,7 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
 ![Watch the video]()
 ## Architecture
 
-![Roadmap](./docs/Architecture.jpg)
+![Architecture](./docs/Architecture.jpg)
 
 ## Long Description
 
