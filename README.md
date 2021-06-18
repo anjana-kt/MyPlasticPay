@@ -40,6 +40,8 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
 ![Watch the video]()
 ## Architecture
 
+![Roadmap](./docs/Architecture.jpg)
+
 ## Long Description
 
 [Detailed description is available here](./docs/DESCRIPTION.md)
@@ -52,6 +54,7 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
 
 ## Live Demo
 
+![3D Model](https://www.tinkercad.com/things/ekWntHBtslJ-spectacular-blad) view
 
 ## Built With
 
@@ -73,9 +76,9 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
 
 ## Authors
 
-**Abhinav Thomas**  - [abhitom2000](https://github.com/abhitom2000)
-**Aadhya K Raj**  - [aayadha](https://github.com/aayahda)
-**Anjana K T**  - [anjanakt](https://github.com/anjanakta)
+- **Abhinav Thomas**  - [abhitom2000](https://github.com/abhitom2000)
+- **Aadhya K Raj**  - [aayadha](https://github.com/aayahda)
+- **Anjana K T**  - [anjanakt](https://github.com/anjanakta)
 
 
 ## License
