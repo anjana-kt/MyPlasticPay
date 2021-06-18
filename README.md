@@ -41,6 +41,11 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
 ## Architecture
 
 ![Architecture](./docs/Architecture.jpg)
+1. The user interacts with GARBIN(plastic depositing bin) and acquires a QR code. Scanning the QR code leads to the download of MyPlasticPays app.
+2. Watson assistant - To build conversational flow between the app and the user.
+3. IBM Cloudant- A NoSQL database to store the data of users.
+4. IBM Code Engine - To run the app on a managed serverless platform.
+
 
 ## Long Description
 
