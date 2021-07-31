@@ -88,7 +88,7 @@ MyPlasticPay app works as a bin tracker and rewarding channel through which you 
 
 - **Abhinav Thomas**  - [abhitom2000](https://github.com/abhitom2000)
 - **Aadhya K Raj**  - [aayahda](https://github.com/aayahda)
-- **Anjana K T**  - [anjanakta](https://github.com/anjanakta)
+- **Anjana K T**  - [anjanakta](https://github.com/anjana-kt)
 - **Amita A R**  - [amitarajeev](https://github.com/amitarajeev)
 - **Ijas Ahammed J**  - [ijas-20](https://github.com/ijas-20)
 
